@@ -1,0 +1,5 @@
+安装帮助
+上传解压导入sql文件
+修改inc/cofign.php
+后台地址url.cn/admin
+账号admin 密码admin
